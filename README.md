@@ -18,3 +18,36 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+
+
+
+# Engenharia De Requisitos 
+
+- A engenharia de requisitos oferece controles e padrões para que as exigências do projeto sejam claras, correspondam às suas finalidades e possam ser compreendidas por todos os responsáveis. Isso garante a qualidade do software, além de mais produtividade em suas etapas de desenvolvimento, operação e manutenção.
+
+### Entenda como o serviço funciona :
+
+- O serviço de engenharia de requisitos inclui algumas atividades básicas, divididas em etapas que visam padronizar o gerenciamento do projeto e garantir o seu sucesso.
+
+
+<img src="https://blog-static.infra.grancursosonline.com.br/wp-content/uploads/2020/03/10121622/inni.png" alt="cachorro sorrindo" width="508px">
+
+
+
+<img src="https://blog-static.infra.grancursosonline.com.br/wp-content/uploads/2020/05/20154259/Cascata.png" alt="cachorro sorrindo" width="508px">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
