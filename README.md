@@ -49,9 +49,13 @@ Agora que entendemos que os requisitos funcionais definem o que uma solução va
 Ou seja, eles são premissas essenciais para as execuções das funções definidas pelos requisitos funcionais. Sendo assim, sem os requisitos não funcionais, a operação de um software estará comprometida completamente, por isso, eles são comumente apelidados de atributos de qualidade.
 
 
+## Seguem links utilizados no trabalho:
 
+Requisitos funcionais e não funcionais: guia completo [clica aqui](https://blog.casadodesenvolvedor.com.br/requisitos-funcionais-e-nao-funcionais/). 
 
+Requisitos funcionais e não funcionais: o que são? [clica aqui](https://www.mestresdaweb.com.br/tecnologias/requisitos-funcionais-e-nao-funcionais-o-que-sao).
 
+Introdução à Engenharia de Requisitos: [clica aqui](https://www.devmedia.com.br/introducao-a-engenharia-de-requisitos/8034).
 
 
 
