@@ -18,3 +18,44 @@ Você poderá estudar o conteúdo [clica aqui, abençoado(a)](https://docs.pipz.
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+
+
+# Engenharia de Requisitos
+
+### **_conceito geral_** :
+É uma disciplina com finalidade de gerenciar os requisitos de sistema/software. É uma abordagem sistemática para elicitar, organizar e documentar os requisitos do sistema, para garantir completeza, consistência e relevância dos requisitos.
+
+<img src="https://blog-static.infra.grancursosonline.com.br/wp-content/uploads/2020/03/10121622/inni.png" alt="cachorro sorrindo" width="508px">
+
+### Essa é uma tabela que mostra as UCs de uma pagina de vendas de uma confeitaria:
+
+------------------------------------------------------------
+UC-1| o usuário pode rolar para baixo para ver os produtos 
+----|----------------------------------------------------------
+UC-2| caso o usuário goste do produto ele pode salva-lo em favoritos
+UC-3| Se o usuário desejar uma busca ele poderá pesquisar no menu acima 
+UC-4| clicando nos comerciais ele será transportado para a promoção.
+----------------------------------------------------------------------
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMy9Kk8sm0DZ8MSNYSELDgwtOF38Ax7TmlCKKw0jevzQ&s" alt="cachorro sorrindo" width="508px">
+
+### Requisitos Funcionais:
+Os requisitos funcionais são aqueles que visam atingir a solução dos problemas do usuário. Desse modo, eles trabalham diretamente no objetivo para o qual uma solução foi escrita.
+Na engenharia de software, um requisito funcional visa atender as necessidades dos usuários, materializando estes conceitos em forma de funções no novo sistema.
+
+###  Requisitos Não Funcionais:
+Agora que entendemos que os requisitos funcionais definem o que uma solução vai fazer, a engenharia de software comenta que os requisitos não funcionais mencionam como estas operações vão ser realizadas.
+Ou seja, eles são premissas essenciais para as execuções das funções definidas pelos requisitos funcionais. Sendo assim, sem os requisitos não funcionais, a operação de um software estará comprometida completamente, por isso, eles são comumente apelidados de atributos de qualidade.
+
+
+
+
+
+
+
+
+
+
+
+
