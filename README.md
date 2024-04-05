@@ -1,4 +1,4 @@
-# Aula prática - Markdown
+# Aula prática - Markdown <img src="https://64.media.tumblr.com/c8920ccd35ce8c592e373a4445136305/tumblr_nhtjanII4S1qd4q8ao1_500.gif" width="120px"> 
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
 
